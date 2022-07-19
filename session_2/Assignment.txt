@@ -1,0 +1,5 @@
+1- Solve the uncompleted cells in "Pandas_Tutorial.ipynb" notebook
+2- load the "train.csv" file and make the following steps:
+    - Explore the data as mentioned the session (print a sample and get statistics of the data)
+    - draw histograms for different columns using matplot (think about most probable way for the numerical fields)
+    - draw a figure to show the relation between every column and the "Survived" column
