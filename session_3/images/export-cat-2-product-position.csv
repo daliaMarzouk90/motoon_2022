@@ -1,0 +1,168 @@
+SKU;Name;Position
+Test-X-Product;"Test Product";10000
+tester_2;"Tester 2";0
+CONFIGURABLE_210620221153-small;CONFIGURABLE_210620221153-small;0
+CONFIGURABLE_210620221153-medium;CONFIGURABLE_210620221153-medium;0
+210620221153;CONFIGURABLE_210620221153-large;0
+Configurable_2106202221515-small;"Configurable 2106202221515-small";0
+Configurable_2106202221515-medium;"Configurable 2106202221515-medium";10000
+Configurable_2106202221515-large;"Configurable 2106202221515-large";10000
+Configurable_2106202221527-Basic;"Configurable 2106202221527-Basic";10000
+Configurable_2106202221527-Acrylic;"Configurable 2106202221527-Acrylic";0
+Chair-55458;"Chair sofra";0
+chair-89897;"chair Office";0
+Sofa-963;"Sofa rabea";0
+sofa-abc-852;sofa-abc;0
+sofa-123456;sofa-123456;0
+Sofa-off-987;product-zara;0
+Sofa-greeep-984;Sofa-greeep;0
+Sofa-beda-874;Sofa-beda;0
+كنبة;Sofa-betooo;0
+Sofa-7894;"Sofa Elmehrath";0
+Sofa-7455;كنبة;2
+SofaElmehrath3-951;"Sofa Elmehrath3";0
+20220523_t8_conf-Basic-Red-small;20220523_t8_conf-Basic-Red-small;10000
+20220523_t8_conf-Basic-Red-medium;20220523_t8_conf-Basic-Red-medium;10000
+20220523_t8_conf-Basic-Red-large;20220523_t8_conf-Basic-Red-large;10000
+20220523_t8_conf-Basic-Green-small;20220523_t8_conf-Basic-Green-small;10000
+20220523_t8_conf-Basic-Green-medium;20220523_t8_conf-Basic-Green-medium;10000
+20220523_t8_conf-Basic-Green-large;20220523_t8_conf-Basic-Green-large;10000
+20220523_t8_conf-Basic-Blue-small;20220523_t8_conf-Basic-Blue-small;10000
+20220523_t8_conf-Basic-Blue-medium;20220523_t8_conf-Basic-Blue-medium;10000
+20220523_t8_conf-Basic-Blue-large;20220523_t8_conf-Basic-Blue-large;10000
+20220523_t8_conf-Acrylic-Red-small;20220523_t8_conf-Acrylic-Red-small;10000
+20220523_t8_conf-Acrylic-Red-medium;20220523_t8_conf-Acrylic-Red-medium;10000
+20220523_t8_conf-Acrylic-Red-large;20220523_t8_conf-Acrylic-Red-large;10000
+20220523_t8_conf-Acrylic-Green-small;20220523_t8_conf-Acrylic-Green-small;10000
+20220523_t8_conf-Acrylic-Green-medium;20220523_t8_conf-Acrylic-Green-medium;10000
+20220523_t8_conf-Acrylic-Green-large;20220523_t8_conf-Acrylic-Green-large;10000
+20220523_t8_conf-Acrylic-Blue-small;20220523_t8_conf-Acrylic-Blue-small;10000
+20220523_t8_conf-Acrylic-Blue-medium;20220523_t8_conf-Acrylic-Blue-medium;10000
+20220523_t8_conf-Acrylic-Blue-large;20220523_t8_conf-Acrylic-Blue-large;10000
+sofa-test;sofa-test;10000
+345;Test345;0
+test-090;test-090;0
+a534322422-Red;"Bambo Straight Comfort Sofa Plus. High quality-Red";0
+a534322422-Black;"Bambo Straight Comfort Sofa Plus. High quality-Black";0
+a534322421-Green;"Bambo Straight Comfort Sofa Plus. High quality-Green";10000
+a534322421-Pink;"Bambo Straight Comfort Sofa Plus. High quality-Pink";10000
+a534322421-White;"Bambo Straight Comfort Sofa Plus. High quality-White";10000
+verysimple-Red-Basic;"Very Simple-Red-Basic";10000
+verysimple-Red-Acrylic;"Very Simple-Red-Acrylic";10000
+verysimple-Green-Basic;"Very Simple-Green-Basic";10000
+verysimple-Green-Acrylic;"Very Simple-Green-Acrylic";10000
+Sofa-963-Red-Basic-small;"Sofa rabea-Red-Basic-small";0
+Sofa-963-Red-Basic-medium;"Sofa rabea-Red-Basic-medium";0
+Sofa-963-Red-Basic-large;"Sofa rabea-Red-Basic-large";0
+Sofa-963-Red-Acrylic-small;"Sofa rabea-Red-Acrylic-small";0
+Sofa-963-Red-Acrylic-medium;"Sofa rabea-Red-Acrylic-medium";0
+Sofa-963-Red-Acrylic-large;"Sofa rabea-Red-Acrylic-large";0
+Sofa-963-Red-2-small;"Sofa rabea-Red-2-small";0
+Sofa-963-Red-2-medium;"Sofa rabea-Red-2-medium";0
+Sofa-963-Red-2-large;"Sofa rabea-Red-2-large";0
+Sofa-963-Green-Basic-small;"Sofa rabea-Green-Basic-small";0
+Sofa-963-Green-Basic-medium;"Sofa rabea-Green-Basic-medium";0
+Sofa-963-Green-Basic-large;"Sofa rabea-Green-Basic-large";0
+Sofa-963-Green-Acrylic-small;"Sofa rabea-Green-Acrylic-small";0
+Sofa-963-Green-Acrylic-medium;"Sofa rabea-Green-Acrylic-medium";0
+Sofa-963-Green-Acrylic-large;"Sofa rabea-Green-Acrylic-large";0
+Sofa-963-Green-2-small;"Sofa rabea-Green-2-small";0
+Sofa-963-Green-2-medium;"Sofa rabea-Green-2-medium";0
+Sofa-963-Green-2-large;"Sofa rabea-Green-2-large";0
+Sofa-963-Pink-Basic-small;"Sofa rabea-Pink-Basic-small";0
+Sofa-963-Pink-Basic-medium;"Sofa rabea-Pink-Basic-medium";0
+Sofa-963-Pink-Basic-large;"Sofa rabea-Pink-Basic-large";0
+Sofa-963-Pink-Acrylic-small;"Sofa rabea-Pink-Acrylic-small";0
+Sofa-963-Pink-Acrylic-medium;"Sofa rabea-Pink-Acrylic-medium";0
+Sofa-963-Pink-Acrylic-large;"Sofa rabea-Pink-Acrylic-large";0
+Sofa-963-Pink-2-small;"Sofa rabea-Pink-2-small";0
+Sofa-963-Pink-2-medium;"Sofa rabea-Pink-2-medium";0
+Sofa-963-Pink-2-large;"Sofa rabea-Pink-2-large";0
+elastictemi-Red-Basic;elastictemi-Red-Basic;10000
+elastictemi-Red-Acrylic;elastictemi-Red-Acrylic;10000
+elastictemi-White-Basic;elastictemi-White-Basic;10000
+elastictemi-White-Acrylic;elastictemi-White-Acrylic;10000
+Sofa-tolan-874-Red-Acrylic-small;Sofa-tolan-Red-Acrylic-small;0
+Sofa-tolan-874-Red-Acrylic-medium;Sofa-tolan-Red-Acrylic-medium;0
+Sofa-tolan-874-Red-Acrylic-large;Sofa-tolan-Red-Acrylic-large;0
+Sofa-tolan-874-Red-Basic-small;Sofa-tolan-Red-Basic-small;0
+Sofa-tolan-874-Red-Basic-medium;Sofa-tolan-Red-Basic-medium;0
+Sofa-tolan-874-Red-Basic-large;Sofa-tolan-Red-Basic-large;0
+Sofa-tolan-874-White-Acrylic-small;Sofa-tolan-White-Acrylic-small;0
+Sofa-tolan-874-White-Acrylic-medium;Sofa-tolan-White-Acrylic-medium;0
+Sofa-tolan-874-White-Acrylic-large;Sofa-tolan-White-Acrylic-large;0
+Sofa-tolan-874-White-Basic-small;Sofa-tolan-White-Basic-small;0
+Sofa-tolan-874-White-Basic-medium;Sofa-tolan-White-Basic-medium;0
+Sofa-tolan-874-White-Basic-large;Sofa-tolan-White-Basic-large;0
+Sofa-tolan-874-Black-Acrylic-small;Sofa-tolan-Black-Acrylic-small;0
+Sofa-tolan-874-Black-Acrylic-medium;Sofa-tolan-Black-Acrylic-medium;0
+Sofa-tolan-874-Black-Acrylic-large;Sofa-tolan-Black-Acrylic-large;0
+Sofa-tolan-874-Black-Basic-small;Sofa-tolan-Black-Basic-small;0
+Sofa-tolan-874-Black-Basic-medium;Sofa-tolan-Black-Basic-medium;0
+Sofa-tolan-874-Black-Basic-large;Sofa-tolan-Black-Basic-large;0
+sofa-appliancess-9874-Red-Basic-small;"sofa-appliancess-main category in furniture-Red-Basic-small";0
+sofa-appliancess-9874-Red-Basic-medium;"sofa-appliancess-main category in furniture-Red-Basic-medium";0
+sofa-appliancess-9874-Red-Basic-large;"sofa-appliancess-main category in furniture-Red-Basic-large";0
+sofa-appliancess-9874-Red-Acrylic-small;"sofa-appliancess-main category in furniture-Red-Acrylic-small";0
+sofa-appliancess-9874-Red-Acrylic-medium;"sofa-appliancess-main category in furniture-Red-Acrylic-medium";0
+sofa-appliancess-9874-Red-Acrylic-large;"sofa-appliancess-main category in furniture-Red-Acrylic-large";0
+sofa-appliancess-9874-White-Basic-small;"sofa-appliancess-main category in furniture-White-Basic-small";0
+sofa-appliancess-9874-White-Basic-medium;"sofa-appliancess-main category in furniture-White-Basic-medium";0
+sofa-appliancess-9874-White-Basic-large;"sofa-appliancess-main category in furniture-White-Basic-large";0
+sofa-appliancess-9874-White-Acrylic-small;"sofa-appliancess-main category in furniture-White-Acrylic-small";0
+sofa-appliancess-9874-White-Acrylic-medium;"sofa-appliancess-main category in furniture-White-Acrylic-medium";0
+sofa-appliancess-9874-White-Acrylic-large;"sofa-appliancess-main category in furniture-White-Acrylic-large";0
+sofa-appliancess-9874-Black-Basic-small;"sofa-appliancess-main category in furniture-Black-Basic-small";0
+sofa-appliancess-9874-Black-Basic-medium;"sofa-appliancess-main category in furniture-Black-Basic-medium";0
+sofa-appliancess-9874-Black-Basic-large;"sofa-appliancess-main category in furniture-Black-Basic-large";0
+sofa-appliancess-9874-Black-Acrylic-small;"sofa-appliancess-main category in furniture-Black-Acrylic-small";0
+sofa-appliancess-9874-Black-Acrylic-medium;"sofa-appliancess-main category in furniture-Black-Acrylic-medium";0
+sofa-appliancess-9874-Black-Acrylic-large;"sofa-appliancess-main category in furniture-Black-Acrylic-large";0
+testc2-Red;testc2-Red;0
+testc2-Blue;testc2-Blue;0
+testc2-White;testc2-White;0
+testc2-Red-small;testc2-Red-small;0
+testc2-Red-medium;testc2-Red-medium;0
+testc2-Red-large;testc2-Red-large;0
+testc2-White-small;testc2-White-small;0
+testc2-White-medium;testc2-White-medium;0
+testc2-White-large;testc2-White-large;0
+testc2-Blue-small;testc2-Blue-small;0
+testc2-Blue-medium;testc2-Blue-medium;0
+testc2-Blue-large;testc2-Blue-large;0
+testc2-Red-small-Basic;testc2-Red-small-Basic;0
+testc2-Red-small-Acrylic;testc2-Red-small-Acrylic;0
+testc2-Red-medium-Basic;testc2-Red-medium-Basic;0
+testc2-Red-medium-Acrylic;testc2-Red-medium-Acrylic;0
+testc2-Red-large-Basic;testc2-Red-large-Basic;0
+testc2-Red-large-Acrylic;testc2-Red-large-Acrylic;0
+testc2-White-small-Basic;testc2-White-small-Basic;0
+testc2-White-small-Acrylic;testc2-White-small-Acrylic;0
+testc2-White-medium-Basic;testc2-White-medium-Basic;0
+testc2-White-medium-Acrylic;testc2-White-medium-Acrylic;0
+testc2-White-large-Basic;testc2-White-large-Basic;0
+testc2-White-large-Acrylic;testc2-White-large-Acrylic;0
+testc2-Blue-small-Basic;testc2-Blue-small-Basic;0
+testc2-Blue-small-Acrylic;testc2-Blue-small-Acrylic;0
+testc2-Blue-medium-Basic;testc2-Blue-medium-Basic;0
+testc2-Blue-medium-Acrylic;testc2-Blue-medium-Acrylic;0
+testc2-Blue-large-Basic;testc2-Blue-large-Basic;0
+testc2-Blue-large-Acrylic;testc2-Blue-large-Acrylic;0
+testc3;testc3;0
+table-celal;tabletable-celal;10000
+table-deneme112;table;10000
+table;"table x";10000
+"Product Table";"Product Table";10000
+tab;"table h";10000
+hifdaukd;hifdaukd;0
+degil;degil;0
+Test-mhsm-29jun-1;"Mhsm 29jun-1 product name";10000
+Tes-pro;Tes-pro;10000
+denemeler;"Bora Deneme";0
+deneme;deneme;0
+"bundle same seller";"bundle same seller";0
+dontchange;"dont change";10000
+24-WG085;"Sprite Yoga Strap 6 foot";0
+24-WG086;"Sprite Yoga Strap 8 foot";0
+24-WG087;"Sprite Yoga Strap 10 foot";0
+24-WG085_Group;"Set of Sprite Yoga Straps";0
