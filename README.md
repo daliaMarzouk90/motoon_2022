@@ -12,3 +12,6 @@ In this  course you will learn about machine learning theories through a chain o
 <li>Learn about computer vision system</li>
 <li>Learn about natural language processing</li>
 </ul>
+
+
+edit
