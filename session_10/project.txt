@@ -1,0 +1,9 @@
+- check the data set in https://cseweb.ucsd.edu/~jmcauley/datasets.html#steam_data
+- This is a database for Steam Video Game and Bundle Data
+- Study how to build the a real-time recommendation sytem use the same data structure
+    - dump the data-set to mongodb
+    - study the data-set and find how to use it to build a recommendation system
+    - build your models to acquire data from mongodb and update itself every a variable time stamp
+    - build api for training the model and for using the model
+    - creat personalized page for each user
+    - create relevant items page for every video game
